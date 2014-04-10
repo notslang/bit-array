@@ -1,0 +1,13 @@
+{
+  "name": "bit-array",
+  "repository": "slang800/bit-array",
+  "description": "encode/manipulate arrays of bits",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
